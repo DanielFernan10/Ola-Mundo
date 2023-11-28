@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro repositório do curso
+# Ola, Mundo!
+ Primeiro repositório do curso gustavo guanabara
